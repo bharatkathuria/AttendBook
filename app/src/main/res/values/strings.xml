@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AttendBook</string>
+    <string name="google_map_key">AIzaSyC6cl_SBv3VnMKzSsuwlfbnQja6H_d3h2A</string>
+    <string name="title_activity_class_information">AttendBook</string>
+    <string name="tab_text_1">Yesterday</string>
+    <string name="tab_text_2">Today</string>
+    <string name="tab_text_3">Tomorrow</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <item name="courseId" type="id" />
+    <item name="subjectId" type="id" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="starttime">
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="endtime">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </string-array>
+    <string-array name="courseid">
+        <item>MCA</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ECE</item>
+        <item>LLB</item>
+        <item>MBA</item>
+        <item>MSC</item>
+        <item>BBA</item>
+        <item>BSC</item>
+    </string-array>
+    <string name="title_activity_inoformation">InoformationActivity</string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="profile">Profile</string>
+    <string name="doyou">Do you want to go Back?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialogalerttitle">Alert !</string>
+    <string name="daily_report">Daily Report</string>
+
+
+</resources>

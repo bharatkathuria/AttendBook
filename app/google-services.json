@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113950441852",
+    "firebase_url": "https://attendbook-34944.firebaseio.com",
+    "project_id": "attendbook-34944",
+    "storage_bucket": "attendbook-34944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113950441852:android:c2d68d3fbd17644042a4f9",
+        "android_client_info": {
+          "package_name": "com.example.attendbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113950441852-u2o2itm1e8ajr51ljq4b0mevv3co66o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobDfR_vg_W4MqwBunrvV16oyjwQMv5RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113950441852-u2o2itm1e8ajr51ljq4b0mevv3co66o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

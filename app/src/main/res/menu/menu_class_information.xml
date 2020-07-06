@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.attendbook.ClassInformationActivity">
+    <group android:id="@+id/grp1">
+    <item android:id="@+id/userprofile"
+        android:icon="@drawable/ic_account_circle_24px"
+        android:title="@string/profile"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+    </group>
+    <group android:id="@+id/grp2">
+    <item android:id="@+id/dailyreport"
+        android:title="@string/daily_report"
+        android:orderInCategory="50"
+        app:showAsAction="never"/>
+        <item android:id="@+id/monthlyreport"
+            android:title="@string/monthly_report"
+            android:orderInCategory="70"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    </group>
+
+</menu>
