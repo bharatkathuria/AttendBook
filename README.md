@@ -13,5 +13,5 @@ running background service for location monitoring and it stores
 and retrives data from Firebase .
 
 #Screenshots
-![attendbook](https://github.com/bharatkathuria/AttendBook/blob/master/Screenshots/Screenshot_1583344661.png?raw=true)
-img[alt=attendbook] { width: 200px; height: 600px;}
+
+<a href="https://github.com/bharatkathuria/AttendBook/blob/master/Screenshots/Screenshot_1583344661.png?raw=true"><img src="https://github.com/bharatkathuria/AttendBook/blob/master/Screenshots/Screenshot_1583344661.png?raw=true" align="left" height="600" width="200" ></a>
